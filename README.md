@@ -17,7 +17,9 @@ Identifico queste macroaree
 7.	Beneficial 
 
 Chemical Entity.
+
 Qui servono info ripartite in alcuni campi. Queste caratterizzazioni generali NON sono quelle dei descrittori, anche se si possono usare dei descrittori per codificarle. Qui ci servono poche caratteristiche portanti, che caratterizzino la sostanza su alcuni aspetti salienti. Ci servono quindi dei valori per queste caratteristiche:
+
 •	Reactivity
 •	stability
 •	polarity
@@ -25,6 +27,7 @@ Qui servono info ripartite in alcuni campi. Queste caratterizzazioni generali NO
 •	flexibility/rigidity
 •	simmetry
 •	size
+
 Questi valori possono essere ottenuti da (insiemi di) descrittori.
 Ognuno di questi aspetti è una componente che svolge un ruolo nei fenomeni ripartiti nelle macroaree sopra elencati. La combinazione di queste caratteristiche chimiche serve a meglio comprendere i fenomeni. 
 La reattività è molto importante nei processi di effetto tossico.
@@ -35,18 +38,23 @@ La rigidità di una molecola influenza la sua capacità di adattarsi in condizio
 La simmetria può raddoppiare la capacità di interagire con una seconda molecola.
 La dimensione entra in gioco nei fenomeni di distribuzione, specialmente biologici.
 Alcune di queste caratteristiche hanno una rilevanza sulla molecola a livello globale:
+
 •	polarity
 •	flexibility/rigidity
 •	simmetry
 •	size
+
 Altre caratteristiche hanno un ruolo locale, che si manifesta in relazione a una certa parte della molecola:
 •	Reactivity
 •	stability
 •	steric property
+
 È tuttavia vero che anche le caratteristiche più globali possono essere analizzate in un contesto locale. Quindi, la reattività di una molecola sarà influenzata dal suo intorno, per quanto riguarda le caratteristiche quali:
+
 •	polarity
 •	flexibility/rigidity
 •	simmetry
+
 Quindi, può essere utile esplorare tali proprietà sia su tutta la molecola che a distanza prossima ai centri più reattivi.
 N.B. Queste info chimiche sono diverse per la sostanza come sale o neutra. In realtà, in casi particolari, analizzando una certa proprietà (ad esempio mutagenesi), noi abbiamo convenuto che in quel caso particolare il dato sperimentale sul sale o sul neutro era analogo, e quindi abbiamo unificato le due entità chimiche. Nello schema attuale generale le due sostanze sono distinte.
 
